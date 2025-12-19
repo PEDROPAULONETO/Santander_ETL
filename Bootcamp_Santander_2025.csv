@@ -1,0 +1,6 @@
+UserID,name,account_id,account_number,account_agency,account_balance,account_limit,card_id,card_number,card_limit
+1,José Ferreira,1,01.000-1,001,624.12,1000.00,1,xxxx xxxx xxxx 1111,2000.00
+2,Ana Silva,2,02.000-2,001,1500.50,2000.00,2,xxxx xxxx xxxx 2222,3500.00
+3,Bruno Oliveira,3,03.000-3,001,45.20,500.00,3,xxxx xxxx xxxx 3333,1000.00
+4,Carla Souza,4,04.000-4,001,3200.00,5000.00,4,xxxx xxxx xxxx 4444,8000.00
+5,Diego Santos,5,05.000-5,001,890.33,1200.00,5,xxxx xxxx xxxx 5555,2500.00
