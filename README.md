@@ -17,3 +17,8 @@ O sistema automatiza o processo de marketing bancário:
 *   **Python 3:** Linguagem base para o script de automação.
 *   **Pandas:** Manipulação e análise de dados tabulares (ETL).
 *   **Google Gemini API:** Integração com LLMs (Gemini) para geração de conteúdo.
+
+## 🔗 Links
+
+[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PEDROPAULONETO/k8s-projeto1-app-base/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-paulo-da-silva-neto-8b8a20368/)
